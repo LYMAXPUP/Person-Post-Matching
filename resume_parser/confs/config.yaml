@@ -1,0 +1,68 @@
+resume_directory: ../data/input
+summary_output_directory: ./data/output
+# data_schema_dir: ./data/schema
+
+segment_keywords:
+ education_keywords:
+  - 教育经历
+  - 教育背景
+  - 学历信息
+  - 学历背景
+  - 本科
+  - 硕士
+  - 博士
+  - 研究生
+
+ work_experience_keywords:
+  - 实习
+  - ⼯作经历
+  - 工作经历
+  - 工作背景
+  - 实习经历
+  - 实习经验
+  - 实习背景
+  - 职业经历
+  - 实习实践经历
+
+ project_keywords:
+  - 项目经验
+  - 项目经历
+  - 项目实践
+  - 科研经历
+  - 科研项目
+  - 科研经验
+  - 学术实践
+  - 学术经历
+  - 学术经验
+  - 竞赛经历
+  - 竞赛经验
+
+ campus_keywords:
+  - 学校经历
+  - 学校实践
+  - 社团经历
+  - 社团实践
+  - 校园经历
+  - 校园实践
+  - 社会经历
+  - 社会经验
+  - 社会实践
+
+ other_keywords:
+  - 兴趣爱好
+  - 所获证书
+  - 获奖经历
+  - 语言能力
+  - 荣誉证书
+  - 资质
+  - 证书
+  - 资格技能
+  - 兴趣特长
+  - 技能证书
+  - 其他
+  - 技能
+  - 个人简介
+  - 自我评价
+  - 自我描述
+  - 个人总结
+
