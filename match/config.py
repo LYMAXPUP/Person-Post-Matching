@@ -20,4 +20,5 @@ def set_args():
     parser.add_argument('--encoder_type', default='fist-last-avg', type=str, help='输出层的编码方式')
     parser.add_argument('--seed', default=43, type=int, help='随机种子')
 
-    return parser.parse_args()
+    # return parser.parse_args()
+    return parser.parse_known_args()[0]
